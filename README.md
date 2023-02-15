@@ -8,6 +8,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AripMiranda&bg_color=0d1117&color=83c5be&title_color=83c5be&line=006d77&point=c9d1d9&area=true&area_color=9033F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AripMiranda&bg_color=0d1117&color=83c5be&title_color=83c5be&line=9033F7&point=c9d1d9&area=true&area_color=9033F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006d77&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9033F7&height=120&section=footer"/>
