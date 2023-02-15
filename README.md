@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9033F7&width=435&lines=Oi%2C+tudo+bem%3F;Meu+nome+%C3%A9+Ariana;E+uma+pessoa+desenvolvedora+em+evolu%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AripMiranda&show_icons=true&count_private=true&hide_border=true&title_color=83c5be&icon_color=9033F7&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaNunes&show_icons=true&count_private=true&hide_border=true&title_color=83c5be&icon_color=9033F7&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AripMiranda&layout=compact&hide_border=true&title_color=83c5be&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
